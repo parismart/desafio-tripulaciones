@@ -1,0 +1,13 @@
+{
+    "id": "String o Int. ID DE LA USUARIO",
+    "age range": "String. (0-18, 18-35, 35-45 Ó +45)",
+    "gender": "String. (Hombre, Mujer, prefiero no decirlo) ",
+    "time available": "String. TIEMPO DISPONIBLE (1-2, 3-4, 5-6, 7-8)",
+    "type": "String. TIPO DE RUTA PREFEFIDA", 
+    "price": "String. COSTE DISPUESTO A PAGAR",
+    "difficulty": "String. DIFICULTAD(alta o baja)",
+    "accompaniment": "String. ACOMPAÑAMIENTO (solo, pareja, familia)",
+    "transport": "String. TRANSPORTE",
+    "name":[ "String. NOMBRE DE LA RUTA O RUTAS"]
+    
+  }
