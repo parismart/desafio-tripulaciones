@@ -1,10 +1,10 @@
 {
     "id": "String o Int. ID DE LA USUARIO",
-    "age range": "String. (0-18, 18-35, 35-45 Ó +45)",
+    "age range": "Int. ",
     "gender": "String. (Hombre, Mujer, prefiero no decirlo) ",
-    "time available": "String. TIEMPO DISPONIBLE (1-2, 3-4, 5-6, 7-8)",
+    "time available": "In. ENTERO ENTRE 30 y 480",
     "type": "String. TIPO DE RUTA PREFEFIDA", 
-    "price": "String. COSTE DISPUESTO A PAGAR",
+    "price": "UInt. ENTEROS POSITIVOS",
     "difficulty": "String. DIFICULTAD(alta o baja)",
     "accompaniment": "String. ACOMPAÑAMIENTO (solo, pareja, familia)",
     "transport": "String. TRANSPORTE",
