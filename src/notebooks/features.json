@@ -1,13 +1,11 @@
 {
-    "id": "String o Int. ID DE LA USUARIO",
-    "age range": "Int. ",
-    "gender": "String. (Hombre, Mujer, prefiero no decirlo) ",
-    "time available": "In. ENTERO ENTRE 30 y 480",
-    "type": "String. TIPO DE RUTA PREFEFIDA", 
-    "price": "UInt. ENTEROS POSITIVOS",
+    "age": "Int. ",
+    "gender": "String. (Hombre, Mujer, Otro) ",
+    "time": "Int. ENTERO ENTRE 30 y 480",
+    "route_type": "String. TIPO DE RUTA PREFEFIDA", 
+    "price": "String. (Gratis,1-50, +50) ",
     "difficulty": "String. DIFICULTAD(alta o baja)",
-    "accompaniment": "String. ACOMPAÑAMIENTO (solo, pareja, familia)",
-    "transport": "String. TRANSPORTE",
-    "name":[ "String. NOMBRE DE LA RUTA O RUTAS"]
-    
-  }
+    "companions": "String. ACOMPAÑAMIENTO (solo, pareja, familia, amigos)",
+    "transport": "String. TRANSPORTE (A Pie, Bicicleta)"
+        
+}
